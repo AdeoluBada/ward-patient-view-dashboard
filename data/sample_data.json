@@ -1,0 +1,650 @@
+[
+  {
+    "date": "2026-09-14",
+    "shift": "AM",
+    "patient": "DEMO-01",
+    "category": "General Presentation",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "AM",
+    "patient": "DEMO-02",
+    "category": "Care Plan Review",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "AM",
+    "patient": "DEMO-03",
+    "category": "General Presentation",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "AM",
+    "patient": "DEMO-04",
+    "category": "Daily Living",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "AM",
+    "patient": "DEMO-05",
+    "category": "Care Plan Review",
+    "change": "Negative",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "AM",
+    "patient": "DEMO-06",
+    "category": "Falls Review",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "AM",
+    "patient": "DEMO-07",
+    "category": "Medication Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "AM",
+    "patient": "DEMO-08",
+    "category": "Medication Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "PM",
+    "patient": "DEMO-01",
+    "category": "Wellbeing",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "PM",
+    "patient": "DEMO-02",
+    "category": "General Presentation",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "PM",
+    "patient": "DEMO-04",
+    "category": "Daily Living",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-14",
+    "shift": "PM",
+    "patient": "DEMO-05",
+    "category": "Care Plan Review",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "AM",
+    "patient": "DEMO-02",
+    "category": "Wellbeing",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "AM",
+    "patient": "DEMO-03",
+    "category": "Falls Review",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "AM",
+    "patient": "DEMO-04",
+    "category": "Care Plan Review",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "AM",
+    "patient": "DEMO-05",
+    "category": "Medication Review",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "AM",
+    "patient": "DEMO-06",
+    "category": "Care Plan Review",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "AM",
+    "patient": "DEMO-07",
+    "category": "General Presentation",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "PM",
+    "patient": "DEMO-01",
+    "category": "General Presentation",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "PM",
+    "patient": "DEMO-02",
+    "category": "Wellbeing",
+    "change": "Negative",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "PM",
+    "patient": "DEMO-03",
+    "category": "Medication Review",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "PM",
+    "patient": "DEMO-04",
+    "category": "Wellbeing",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "PM",
+    "patient": "DEMO-05",
+    "category": "Medication Review",
+    "change": "Negative",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "PM",
+    "patient": "DEMO-06",
+    "category": "General Presentation",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-15",
+    "shift": "PM",
+    "patient": "DEMO-08",
+    "category": "General Presentation",
+    "change": "Negative",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "AM",
+    "patient": "DEMO-01",
+    "category": "Daily Living",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "AM",
+    "patient": "DEMO-02",
+    "category": "General Presentation",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "AM",
+    "patient": "DEMO-03",
+    "category": "Falls Review",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "AM",
+    "patient": "DEMO-04",
+    "category": "General Presentation",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "AM",
+    "patient": "DEMO-06",
+    "category": "Daily Living",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "AM",
+    "patient": "DEMO-08",
+    "category": "Medication Review",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "PM",
+    "patient": "DEMO-01",
+    "category": "Daily Living",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "PM",
+    "patient": "DEMO-02",
+    "category": "General Presentation",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "PM",
+    "patient": "DEMO-03",
+    "category": "Medication Review",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "PM",
+    "patient": "DEMO-04",
+    "category": "Wellbeing",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "PM",
+    "patient": "DEMO-05",
+    "category": "Wellbeing",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "PM",
+    "patient": "DEMO-06",
+    "category": "Daily Living",
+    "change": "Negative",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-16",
+    "shift": "PM",
+    "patient": "DEMO-08",
+    "category": "Care Plan Review",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "AM",
+    "patient": "DEMO-01",
+    "category": "Care Plan Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "AM",
+    "patient": "DEMO-03",
+    "category": "Medication Review",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "AM",
+    "patient": "DEMO-04",
+    "category": "Daily Living",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "AM",
+    "patient": "DEMO-05",
+    "category": "Care Plan Review",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "AM",
+    "patient": "DEMO-06",
+    "category": "General Presentation",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "AM",
+    "patient": "DEMO-07",
+    "category": "Falls Review",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "AM",
+    "patient": "DEMO-08",
+    "category": "Care Plan Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "PM",
+    "patient": "DEMO-01",
+    "category": "Wellbeing",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "PM",
+    "patient": "DEMO-02",
+    "category": "Care Plan Review",
+    "change": "Negative",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "PM",
+    "patient": "DEMO-03",
+    "category": "Care Plan Review",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "PM",
+    "patient": "DEMO-04",
+    "category": "Care Plan Review",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "PM",
+    "patient": "DEMO-05",
+    "category": "Medication Review",
+    "change": "Negative",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "PM",
+    "patient": "DEMO-06",
+    "category": "Falls Review",
+    "change": "Negative",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-17",
+    "shift": "PM",
+    "patient": "DEMO-07",
+    "category": "Daily Living",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "AM",
+    "patient": "DEMO-03",
+    "category": "Wellbeing",
+    "change": "Negative",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "AM",
+    "patient": "DEMO-05",
+    "category": "General Presentation",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "AM",
+    "patient": "DEMO-08",
+    "category": "Care Plan Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "PM",
+    "patient": "DEMO-01",
+    "category": "Falls Review",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "PM",
+    "patient": "DEMO-02",
+    "category": "Daily Living",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "PM",
+    "patient": "DEMO-03",
+    "category": "Daily Living",
+    "change": "Negative",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "PM",
+    "patient": "DEMO-04",
+    "category": "Daily Living",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "PM",
+    "patient": "DEMO-05",
+    "category": "General Presentation",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "PM",
+    "patient": "DEMO-06",
+    "category": "Daily Living",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-18",
+    "shift": "PM",
+    "patient": "DEMO-07",
+    "category": "Wellbeing",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "AM",
+    "patient": "DEMO-01",
+    "category": "Care Plan Review",
+    "change": "Positive",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "AM",
+    "patient": "DEMO-02",
+    "category": "Care Plan Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "AM",
+    "patient": "DEMO-03",
+    "category": "General Presentation",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "AM",
+    "patient": "DEMO-04",
+    "category": "Medication Review",
+    "change": "Negative",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "AM",
+    "patient": "DEMO-08",
+    "category": "Medication Review",
+    "change": "Negative",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "PM",
+    "patient": "DEMO-01",
+    "category": "Care Plan Review",
+    "change": "Negative",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "PM",
+    "patient": "DEMO-03",
+    "category": "Medication Review",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "PM",
+    "patient": "DEMO-04",
+    "category": "Medication Review",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "PM",
+    "patient": "DEMO-05",
+    "category": "Medication Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "PM",
+    "patient": "DEMO-06",
+    "category": "Falls Review",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "PM",
+    "patient": "DEMO-07",
+    "category": "Wellbeing",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-19",
+    "shift": "PM",
+    "patient": "DEMO-08",
+    "category": "Medication Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-20",
+    "shift": "AM",
+    "patient": "DEMO-01",
+    "category": "Wellbeing",
+    "change": "Negative",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-20",
+    "shift": "AM",
+    "patient": "DEMO-02",
+    "category": "General Presentation",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-20",
+    "shift": "AM",
+    "patient": "DEMO-03",
+    "category": "Falls Review",
+    "change": "Negative",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-20",
+    "shift": "AM",
+    "patient": "DEMO-04",
+    "category": "General Presentation",
+    "change": "Positive",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-20",
+    "shift": "AM",
+    "patient": "DEMO-06",
+    "category": "Medication Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  },
+  {
+    "date": "2026-09-20",
+    "shift": "PM",
+    "patient": "DEMO-01",
+    "category": "Daily Living",
+    "change": "Neutral",
+    "role": "Nurse"
+  },
+  {
+    "date": "2026-09-20",
+    "shift": "PM",
+    "patient": "DEMO-06",
+    "category": "Care Plan Review",
+    "change": "Neutral",
+    "role": "Support Worker"
+  }
+]
