@@ -1,0 +1,8 @@
+# Never publish source clinical workbooks or identifying data
+*.xlsx
+*.xlsm
+*.xls
+*.db
+.env
+__pycache__/
+.DS_Store
